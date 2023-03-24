@@ -18,6 +18,6 @@ We will be announcing additional projects over the coming months. If you have a 
 
 ## Bitcoin 2023 Open Source Stage
 
-At Bitcoin 2022, we featured some of the top open-source projects in the ecosystem. This year, we're going bigger, with an entire stage dedicated to the most important projects in bitcoin.
+At Bitcoin 2022, we featured some of the top open-source projects in the ecosystem. This year, we're going bigger and better, with an entire stage dedicated to the most important projects in bitcoin.
 ‍
 With a max capacity of over 2000 people, the dedicated open source conference hall will be larger than most bitcoin conferences. The speaker lineup will consist of open source contributors from all different types of bitcoin projects, covering a broad cross-section of the bitcoin open source community. The schedule will include breaks to allow networking, collaboration, and free-form workshops to take place.
